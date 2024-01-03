@@ -1,5 +1,19 @@
 #include <stdio.h>
 
+int addition(int a,int b);
+    int subtraction(int a,int b);
+   int multiplication(a,b);
+   int division(a,b);
+   int modulas(a,b);
+   int increment(a);
+   int intdecrement(b);
+   int assign();
+  int comparison(a,b);
+   int and1( a);
+    int or1( a);
+    int negativestatment( a);
+    //int struct;
+
 struct value
 {int g;
 };
